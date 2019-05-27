@@ -1,0 +1,25 @@
+{
+  "name": "bulmaio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-the-A-ron/PG-netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-the-A-ron/PG-netlify/issues"
+  },
+  "homepage": "https://github.com/A-the-A-ron/PG-netlify#readme",
+  "description": ""
+}
